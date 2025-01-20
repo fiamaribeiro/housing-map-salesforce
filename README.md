@@ -1,4 +1,4 @@
-# HousingMap App
+# DreamHouse App
 
 Um projeto Salesforce que utiliza **Lightning Web Components (LWC)** para criar uma interface interativa de mapeamento e gerenciamento de imóveis. Este aplicativo foi desenvolvido como parte de um estudo prático em desenvolvimento Salesforce.
 
