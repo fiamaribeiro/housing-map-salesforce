@@ -52,3 +52,9 @@ force-app/ └── main/ ├── default/ ├── lwc/ └── housingMa
 ```bash
 git clone https://github.com/seu-usuario/housing-map-salesforce.git
 cd housing-map-salesforce
+
+
+## 🖼️ Demonstração
+
+### Interface Principal
+![Interface Principal](assets/tela_principal.png)
